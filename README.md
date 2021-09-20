@@ -7,3 +7,4 @@ This application simulates a bank terminal and allows you to create and manage y
 ## Technologies
 * Java SE 11
 * SQLite JDBC 3.8.11.2
+* Maven 3.6.3
